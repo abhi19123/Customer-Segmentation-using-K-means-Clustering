@@ -1,0 +1,17 @@
+This project aims to segment customers into distinct groups based on their purchasing behavior. The steps involved are as follows:
+
+Data Collection and Preprocessing:
+
+Gathered a dataset containing customers' purchase histories.
+Cleaned the data by handling missing values and standardizing the format.
+Feature Selection:
+
+Selected relevant features that capture the purchasing behavior of customers.
+Model Implementation:
+
+Implemented the K-means clustering algorithm using Python libraries such as scikit-learn.
+Determined the optimal number of clusters using methods like the Elbow method and Silhouette score.
+Model Evaluation:
+
+Evaluated the clustering results and analyzed the characteristics of each customer segment.
+Visualized the clusters to gain insights into customer behavior.
